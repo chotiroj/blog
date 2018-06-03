@@ -1,0 +1,21 @@
+@charset "utf-8";
+/*CSS*/
+*{margin:0;padding:0;List-style:none;}
+	.box{width:980px;height:640px;margin:0 auto;border:2px solid #8B8682;padding:1px;}
+	.box h1{width:980px;height:100px;font-size:50px;color:#FFF;background:url(images/img03.jpg) no-repeat;padding-top:50px;text-align:center;}	
+	
+	.box1{width:980px;height:440px;background-color:#F0E9E3;}
+	.boxLeft{width:240px;height:390px;float:left;padding:50px 0 0 150px;}
+	.boxLeft table tr td{text-align:right;}
+	.boxLeft table tr td input{width:142px;height:18px}
+	
+	
+	.boxRight{width:240px;height:390px;float:left;padding:50px 0 0 150px;}
+	.boxRight table tr td{text-align:right;}
+	.boxRight table tr td input{width:142px;height:18px;}
+	
+	.box h3{width:980px;height:50px;background:url(images/img06.jpg) no-repeat;}
+	.box h3 p{text-align:right;padding:15px;}
+	.box h3 p a:link,.box h3 p a:visited{text-decoration:none;color:#D4FFFF;}
+	.box h3 p a:hover{text-decoration:underline;color:#A0A0A4;}
+
